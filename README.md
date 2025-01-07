@@ -11,12 +11,16 @@ A simple calculator implemented in Python that performs basic arithmetic operati
 
 ## Usage
 
-1. Run the script:
+1. Clone this repo:
+    ```bash
+    git clone "https://github.com/israelrotimi/game-max.git"
+    ```
+2. Run the script:
     ```bash
     python calculator.py
     ```
-2. Follow the on-screen prompts to perform arithmetic operations.
-3. Type `exit` to quit the program.
+3. Follow the on-screen prompts to perform arithmetic operations.
+4. Type `exit` to quit the program.
 
 ## Functions
 
